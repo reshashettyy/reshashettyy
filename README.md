@@ -32,6 +32,10 @@ I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reshashettyy&show_icons=true&theme=gotham" alt="reshashettyy" />
 <!--
 
 Here are some ideas to get you started:
