@@ -33,11 +33,6 @@ I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engi
 </p>
 
 
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=reshashettyy&show_icons=true&theme=gotham" alt="reshashettyy" />
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
