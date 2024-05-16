@@ -4,7 +4,7 @@ I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engi
 
 - ⚡ I'm fascinated by how code can be used to enhance our day-to-day lives and I'm passionate about using my technical skills to create impactful solutions that help solve real-world issues! I've been coding for over 3 years and I'm always excited to learn more.
   
-- ⏩ Incoming Data Engineer Intern @ <a href="https://www.tributecommunities.com/" target="_blank">Tribute Communities</a>, and PM Intern (Winter 2025) @ <a href="https://www.nvidia.com/en-us/" target="_blank">NVIDIA</a>
+- ⏩ Incoming Data Engineer Intern @ <a href="https://www.tributecommunities.com/" target="_blank">Tribute Communities</a> (Summer 2024), and PM Intern (Winter 2025) @ <a href="https://www.nvidia.com/en-us/" target="_blank">NVIDIA</a>
 
 - 👩‍💻 Previous Data Engineer Intern @ <a href="https://www.mapleleaffoods.com/" target="_blank">Maple Lead Foods</a>, Robotic Process Automation Intern @ <a href="https://www.rbcroyalbank.com/" target="_blank">RBC</a>, and IT Project Manager Intern @ <a href="https://www.ttc.ca/" target="_blank">TTC</a>
 - 🌎 Currently based in Toronto, Canada
