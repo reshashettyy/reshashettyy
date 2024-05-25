@@ -2,11 +2,16 @@
 =============================
 I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo, studying software and information systems, data analytics, project management, and operations research!
 
-- ⚡ I'm fascinated by how code can be used to enhance our day-to-day lives and I'm passionate about using my technical skills to create impactful solutions that help solve real-world issues! I've been coding for over 3 years and I'm always excited to learn more.
-  
-- ⏩ Incoming Data Engineer Intern @ <a href="https://www.tributecommunities.com/" target="_blank">Tribute Communities</a> (Summer 2024), and PM Intern (Winter 2025) @ <a href="https://www.nvidia.com/en-us/" target="_blank">NVIDIA</a>
+## Currently 
+- 🤖 Application Engineer @ <a href="https://www.realliferobotics.com/" target="_blank">Real Life Robotics</a> 
+- 📈 Data Engineer Intern @ <a href="https://www.tributecommunities.com/" target="_blank">Tribute Communities</a> 
 
-- 👩‍💻 Previous Data Engineer Intern @ <a href="https://www.mapleleaffoods.com/" target="_blank">Maple Lead Foods</a>, Robotic Process Automation Intern @ <a href="https://www.rbcroyalbank.com/" target="_blank">RBC</a>, and IT Project Manager Intern @ <a href="https://www.ttc.ca/" target="_blank">TTC</a>
+## What's Next?
+- ⏩ Incoming PM Intern (Winter 2025) @ <a href="https://www.nvidia.com/en-us/" target="_blank">NVIDIA</a>
+
+## Past Work 
+- 👩‍💻 Data Engineer Intern (Fall 2023) @ <a href="https://www.mapleleaffoods.com/" target="_blank">Maple Lead Foods</a>, Robotic Process Automation Intern (Winter 2023) @ <a href="https://www.rbcroyalbank.com/" target="_blank">RBC</a>, and IT Project Manager Intern (Summer 2022) @ <a href="https://www.ttc.ca/" target="_blank">TTC</a>
+
 - 🌎 Currently based in Toronto, Canada
 - 💬 Connect with me! <a href="https://www.linkedin.com/in/resha-shetty/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@reshashetty" /></a> <a href="mailto:r4shetty@uwaterloo.ca.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="r4shetty@uwaterloo.ca"></a>  </h3>
 
