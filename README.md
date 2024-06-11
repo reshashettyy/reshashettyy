@@ -1,6 +1,6 @@
 👋 Hi, I'm Resha!
 =============================
-I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo, studying software and information systems, data analytics, project management, and operations research!
+I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo, studying software and information systems, machine learning, data analytics, project management, and operations research!
 
 Currently 
 - 🤖 Application Engineer @ <a href="https://www.realliferobotics.com/" target="_blank">Real Life Robotics</a> 
