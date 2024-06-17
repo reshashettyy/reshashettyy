@@ -7,7 +7,7 @@ Currently
 - 📈 Data Engineer Intern @ <a href="https://www.tributecommunities.com/" target="_blank">Tribute Communities</a> 
 
 Past Work 
-- 👩‍💻 Data Engineer Intern (Fall 2023) @ <a href="https://www.mapleleaffoods.com/" target="_blank">Maple Lead Foods</a>, Robotic Process Automation Intern (Winter 2023) @ <a href="https://www.rbcroyalbank.com/" target="_blank">RBC</a>, and IT Project Manager Intern (Summer 2022) @ <a href="https://www.ttc.ca/" target="_blank">TTC</a>
+- 👩‍💻 Data Engineer Intern (Fall 2023) @ <a href="https://www.mapleleaffoods.com/" target="_blank">Maple Leaf Foods</a>, Robotic Process Automation Intern (Winter 2023) @ <a href="https://www.rbcroyalbank.com/" target="_blank">RBC</a>, and IT Project Manager Intern (Summer 2022) @ <a href="https://www.ttc.ca/" target="_blank">TTC</a>
 
 - 🌎 Currently based in Toronto, Canada
 - 💬 Connect with me! <a href="https://www.linkedin.com/in/resha-shetty/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@reshashetty" /></a> <a href="mailto:r4shetty@uwaterloo.ca.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="r4shetty@uwaterloo.ca"></a>  </h3>
