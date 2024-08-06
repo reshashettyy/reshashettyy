@@ -2,6 +2,9 @@
 =============================
 I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo, studying software and information systems, machine learning, data analytics, project management, and operations research!
 
+Incoming
+- ⏩ PM Intern (Winter 2025) @ <a href="https://www.nvidia.com/en-us/" target="_blank">NVIDIA</a> 
+
 Currently 
 - 🤖 Application Engineer @ <a href="https://www.realliferobotics.com/" target="_blank">Real Life Robotics</a> 
 - 📈 Data Engineer Intern @ <a href="https://www.tributecommunities.com/" target="_blank">Tribute Communities</a> 
